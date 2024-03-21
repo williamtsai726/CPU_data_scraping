@@ -1,3 +1,4 @@
+# pip install googletrans==4.0.0-rc1
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
