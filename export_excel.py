@@ -1,7 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
-from requests_html import AsyncHTMLSession
 from datetime import datetime
 import numpy as np
 
